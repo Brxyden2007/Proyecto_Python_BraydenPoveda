@@ -1,0 +1,14 @@
+{
+    "Libros": [
+        {
+            "IDunica": "299",
+            "Título": "yo",
+            "Autor": "Alberto",
+            "Género": "Masculino",
+            "Valoración": "7.7",
+            "Título ": "Carlos"
+        }
+    ],
+    "Peliculas": [],
+    "Musicas": []
+}
